@@ -1,0 +1,1 @@
+Article on non-convex variational inequalities with similarity
